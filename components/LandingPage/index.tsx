@@ -14,11 +14,7 @@ const LandingPage = () => {
 
             <div className={styles.list}>
               <div className={styles.item}>
-                ✔️ Curso ensinando a estratégia
-              </div>
-
-              <div className={styles.item}>
-                ✔️ Ligações ao vivo comigo
+                ✔️ Plataforma com as melhores informações
               </div>
 
               <div className={styles.item}>
@@ -26,7 +22,11 @@ const LandingPage = () => {
               </div>
 
               <div className={styles.item}>
-                ✔️ Sala com atualização diária
+                ✔️ Atualizações Diárias
+              </div>
+
+              <div className={styles.item}>
+                ✔️ Ligações ao vivo comigo
               </div>
             </div>
 
