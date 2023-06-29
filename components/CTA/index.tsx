@@ -12,11 +12,7 @@ const CTA = () => {
     const randomIndex = Math.floor(Math.random() * links.length)
     const randomLink = links[randomIndex]
     window.open(randomLink, '_blank')
-  };
-
-  useEffect(() => {
-    openRandomLink();
-  }, []);
+  }
 
   return (
     <>
