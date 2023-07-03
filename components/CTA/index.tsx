@@ -3,9 +3,11 @@ import styles from './styles.module.scss'
 
 const CTA = () => {
   const links = [
-    'https://wa.me/5531993143724?text=Ola%2C+vi+o+video+no+tiktok+e+quero+sua+ajuda.+',
-    'https://wa.me/5531993144570?text=Ola%2C+vi+o+video+no+tiktok+e+quero+sua+ajuda.+',
-    'https://wa.me/5531993144678?text=Ola%2C+vi+o+video+no+tiktok+e+quero+sua+ajuda.+'
+    'https://wa.me/5531993143724?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+melhor',
+    'https://wa.me/5531993144678?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+melhor',
+    'https://wa.me/5531993144853?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+melhor',
+    'https://wa.me/5531993145010?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+melhor',
+    'https://wa.me/5531993145063?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+melhor'
   ]
 
   const openRandomLink = () => {
