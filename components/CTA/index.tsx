@@ -4,7 +4,7 @@ import styles from './styles.module.scss'
 const CTA = () => {
   const links = [
     'https://wa.me/5531993145277?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender',
-    'https://wa.me/5531993144678?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender',
+    'https://wa.me/5531993145386?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender',
     'https://wa.me/5531993144853?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender',
     'https://wa.me/5531993145010?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender',
     'https://wa.me/5531993145437?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender'
