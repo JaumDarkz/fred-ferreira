@@ -3,10 +3,11 @@ import styles from './styles.module.scss'
 
 const CTA = () => {
   const links = [
-    'https://wa.me/5531993145277?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+mais+sobre',
-    'https://wa.me/5531993145386?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+mais+sobre',
-    'https://wa.me/5531993144853?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+mais+sobre',
-    'https://wa.me/5531993145010?text=Ola%2C+vi+o+video+no+tiktok+e+quero+entender+mais+sobre'
+    'https://api.whatsapp.com/send?phone=5531993145010&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    'https://api.whatsapp.com/send?phone=5531993145153&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    'https://api.whatsapp.com/send?phone=5531993145477&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    'https://api.whatsapp.com/send?phone=5531993145548&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    'https://api.whatsapp.com/send?phone=5531993145648&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta'
   ]
 
   const openRandomLink = () => {
