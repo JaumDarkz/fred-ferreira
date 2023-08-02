@@ -31,7 +31,7 @@ const CTA = () => {
           Entre em contato clicando no <br /> <span>BOTÃO ABAIXO</span>
         </div>
 
-        <div className={styles.button} onClick={openRandomLink}>
+        <div className={styles.button}>
           Entrar em Contato
         </div>
       </div>
