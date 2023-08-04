@@ -2,6 +2,7 @@ import Head from "next/head";
 
 import LandingPage from "@/components/LandingPage";
 import Script from "next/script";
+import CTA from "@/components/CTA";
 
 export default function Home() {
   return (
@@ -28,7 +29,7 @@ export default function Home() {
         }}
       />
 
-      <LandingPage />
+      <CTA />
     </>
   );
 }
