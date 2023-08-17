@@ -28,11 +28,11 @@ const CTA = () => {
 
       <div className={styles.container}>
         <div className={styles.title}>
-          Entre em contato clicando no <br /> <span>BOTÃO ABAIXO</span>
+          Compre seus números e faça sua fézinha clicando no <br /> <span>BOTÃO ABAIXO</span>
         </div>
 
-        <div className={styles.button}>
-          Entrar em Contato
+        <div className={styles.button} onClick={() => window.open('https://rifa.digital/s/iphone-13-pro-max-lacrado-ou-4k-no-pix-3000-reais-em-bilhetes-premiados54674', '_self')}>
+          RESERVAR
         </div>
       </div>
     </>
